@@ -1,0 +1,11 @@
+C:\Users\Nemanya\source\repos\HypnoticBar\HypnoticBar\bin\Debug\HypnoticBar.exe.config
+C:\Users\Nemanya\source\repos\HypnoticBar\HypnoticBar\bin\Debug\HypnoticBar.exe
+C:\Users\Nemanya\source\repos\HypnoticBar\HypnoticBar\bin\Debug\HypnoticBar.pdb
+C:\Users\Nemanya\source\repos\HypnoticBar\HypnoticBar\obj\Debug\HypnoticBar.csprojAssemblyReference.cache
+C:\Users\Nemanya\source\repos\HypnoticBar\HypnoticBar\obj\Debug\HypnoticBar.Form1.resources
+C:\Users\Nemanya\source\repos\HypnoticBar\HypnoticBar\obj\Debug\HypnoticBar.Properties.Resources.resources
+C:\Users\Nemanya\source\repos\HypnoticBar\HypnoticBar\obj\Debug\HypnoticBar.csproj.GenerateResource.cache
+C:\Users\Nemanya\source\repos\HypnoticBar\HypnoticBar\obj\Debug\HypnoticBar.csproj.CoreCompileInputs.cache
+C:\Users\Nemanya\source\repos\HypnoticBar\HypnoticBar\obj\Debug\HypnoticBar.exe
+C:\Users\Nemanya\source\repos\HypnoticBar\HypnoticBar\obj\Debug\HypnoticBar.pdb
+C:\Users\Nemanya\source\repos\HypnoticBar\HypnoticBar\obj\Debug\HypnoticBar.Form2.resources
